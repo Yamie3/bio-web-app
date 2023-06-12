@@ -19,9 +19,9 @@ a{
   text-decoration: none;
   color: white;
 }
-    .profile.img {
-  width: 50%;
-  border-radius: 50%;
+    .profile-img {
+  width: 20%;
+  border-radius: 20%;
 }
 .btn{
   display: block;
